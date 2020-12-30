@@ -1,8 +1,8 @@
-package com.xp.springboot.springsecurityjpa.service;
+package com.xp.springboot.springsecurity.service;
 
-import com.xp.springboot.springsecurityjpa.model.AppUserDetail;
-import com.xp.springboot.springsecurityjpa.model.UserEntity;
-import com.xp.springboot.springsecurityjpa.repository.UserRepository;
+import com.xp.springboot.springsecurity.model.AppUserDetail;
+import com.xp.springboot.springsecurity.model.UserEntity;
+import com.xp.springboot.springsecurity.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

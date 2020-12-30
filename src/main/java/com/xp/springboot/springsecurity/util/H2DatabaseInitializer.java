@@ -1,7 +1,7 @@
-package com.xp.springboot.springsecurityjpa.util;
+package com.xp.springboot.springsecurity.util;
 
-import com.xp.springboot.springsecurityjpa.model.UserEntity;
-import com.xp.springboot.springsecurityjpa.repository.UserRepository;
+import com.xp.springboot.springsecurity.model.UserEntity;
+import com.xp.springboot.springsecurity.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

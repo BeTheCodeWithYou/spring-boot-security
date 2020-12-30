@@ -1,6 +1,6 @@
-package com.xp.springboot.springsecurityjpa.repository;
+package com.xp.springboot.springsecurity.repository;
 
-import com.xp.springboot.springsecurityjpa.model.UserEntity;
+import com.xp.springboot.springsecurity.model.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

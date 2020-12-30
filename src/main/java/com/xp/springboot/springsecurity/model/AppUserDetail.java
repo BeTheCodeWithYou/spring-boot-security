@@ -1,4 +1,4 @@
-package com.xp.springboot.springsecurityjpa.model;
+package com.xp.springboot.springsecurity.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
